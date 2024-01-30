@@ -1,0 +1,339 @@
+*{
+    font-family: Mulish;
+}
+.btn-Find{
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+    border-color:#FF5400 ;
+}
+header{
+    background-color: white;
+    padding : 30px 100px;
+}
+.nav-BD{
+    color: #131318;
+    font-size: 36px;
+    font-weight: 800;
+    margin-left: 20px;
+}
+.travel{
+    color: #FF5400;
+}
+.home{
+    color: #FF5400;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    align-self: center;
+    
+}
+nav li a{
+    text-decoration: none;
+    color: #424247;
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    height: 48px;
+    margin-top: 35px;
+}
+.banner{
+    display: flex;
+    width: 1200px;
+    height: 500px;
+    background-image: url(../Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 16px;
+    margin-left: 300px;
+}
+.banner-content{
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%);
+    width: 100%;
+}
+.btn-opt{
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FFF;
+}
+.banner-headline{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 800;
+    text-align: center;
+}
+.banner-descript{
+    display: flex;
+    color: #FFF;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 150px;
+}
+.button{
+    display: inline-flex;
+    padding: 50px;
+    align-items: flex-start;
+    gap: 24px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.30);
+    margin-left: 150px;
+}
+.wonder-tour{
+    display: flex;
+    margin-top: 100px;
+}
+.wonder{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.rectan-4{
+    margin-right: 100px;
+}
+.heading{
+    color: #131318;;
+    font-size: 40px;
+    font-weight: 800;
+}
+.amet{
+    color: rgba(19, 19, 24, 0.70);
+    font-weight: 400;
+    line-height: 26px;
+}
+.discs{
+    color: rgba(19, 19, 24, 0.70);
+    font-weight: 400;
+    line-height: 26px;
+}
+.destination{
+    text-align: center;
+    margin-top: 100px;
+}
+.choose{
+    color: #131318;
+    font-size: 40px;
+    font-weight: 800;
+}
+.w{
+    margin-top: 100px;
+}
+.bookings{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.serv1{
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    
+}
+.hotel img{
+    display: flex;
+    width: 64px;
+    height: 64px;
+    padding-left: 20px;
+}
+.hotel-heading{
+    padding-left: 20px;
+    display: flex;
+    color: #131318;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+}
+.commodo{
+    color: #5A5A5D;
+    font-weight: 400;
+    line-height: 26px;
+}
+.serv-2{
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+}
+.serv-3{
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    margin-left: 650px;
+    margin-top: 50px;
+
+}
+.Images{
+    margin-top: 100px;
+}
+.Bip{
+    width: 500px;
+    height: 284px;
+    margin-top: 200px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+}
+.Tour{
+    padding-left: 50px;
+}
+.about-p{
+    display: flex;
+    padding: 30px;
+    justify-content: space-around;
+}
+.sat{
+    font-size: 24px;
+    font-weight: 800;
+}
+.discount{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    width: 100px;
+    height: 35px;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+}
+#Pack{
+    margin-top: 150px;
+    color: #FFF;
+}
+.Simple p{
+    text-align: left;
+}
+.type li{
+    text-align: left;
+}
+.Simple{
+    display: flex;
+    gap: 300px;
+    margin-top: 100px;
+
+}
+.news{
+    width: 474px;
+    height: 422px;
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+    display: flex;
+    margin-top: 200px;
+    gap: 700px;
+}
+.En{
+    width: 393px;
+    height: 52px;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+}
+#B{
+    margin-bottom: 15px;
+}
+.Lg{
+    width: 393px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+    color: white;
+    margin-top: 15px;
+}
+.many{
+    width: 1900px;
+    height: 502px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-top: 100px;
+    border: 2px solid rgba(19, 19, 24, 0.05);
+}
+footer{
+    display: flex;
+}
+.many{
+    text-align: center;
+    padding-top: 100px;
+}
+.all{
+    width: 1000px;
+    height: 1px;
+    background: rgba(19, 19, 24, 0.10);
+}
+.copy{
+    padding-top: 100px;
+}
+@media screen and (max-width: 576px) {
+    header{
+        padding: 50px ;
+    }
+    nav,.button,.banner-descript,.wonder-tour,.bookings,.serv-3,.discount,.Images,.simple,.news,.many,footer
+    {
+        flex-direction: column;
+    }
+    .banner{
+        width: 400px;
+        height: 700px;
+    }
+    .banner-headline{
+        color: #FFF;
+    font-size: 22px;
+    font-weight: 800;
+    }
+    .banner-descript{
+        font-size: 14px;
+    }
+    .btn-opt{
+        width: 100px;
+        height: 52px;
+    }
+    .btn-Find{
+        width: 100px;
+        height: 52px;
+
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 900px) {
+    header{
+
+    }
+nav,.banner,.banner-content,.wonder-tour,.bookings,.serv-3,.discount,.Images,.Simple,.news,.many
+    {
+        flex-direction: column;
+    }
+    .banner-descript{
+        margin-left: 150px;
+    }
+    .banner{
+        width: 900px;
+    }
+    .button{
+        width: 700px;
+    }
+    .wonder-tour{
+        margin-left: 0px;
+    }
+    .serv-3{
+        margin: 0px;
+    }
+    .discount,.Bip{
+        margin-top: 30px;
+    }
+    .Simple{
+        margin-top: 0px;
+    }
+}
